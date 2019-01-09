@@ -1,0 +1,44 @@
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.deps.json
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.runtimeconfig.json
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.runtimeconfig.dev.json
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\BLL.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Services.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\BLL.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Services.pdb
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.dll
+H:\Git Repo\Korsa\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.runtimeconfig.json
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.runtimeconfig.dev.json
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Korsa.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\BLL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\DAL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Services.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\BLL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\bin\Debug\netcoreapp2.0\Services.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.csproj.CopyComplete
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\obj\Debug\netcoreapp2.0\Korsa.pdb

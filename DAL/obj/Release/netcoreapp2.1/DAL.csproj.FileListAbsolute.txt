@@ -1,0 +1,62 @@
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\DAL.deps.json
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\DAL.runtimeconfig.json
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\DAL.runtimeconfig.dev.json
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\DAL.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\DAL.pdb
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\AppModel.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Component.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\System.Spatial.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\AppModel.pdb
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Component.pdb
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\System.Spatial.xml
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\de\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\es\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\fr\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\it\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\ja\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\ko\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\ru\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\zh-Hans\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\bin\Release\netcoreapp2.1\zh-Hant\System.Spatial.resources.dll
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.AssemblyInfo.cs
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.csproj.CopyComplete
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.dll
+H:\Git Repo\LIMO App\DAL\obj\Release\netcoreapp2.1\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\DAL.deps.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\DAL.runtimeconfig.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\DAL.runtimeconfig.dev.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\System.Spatial.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\System.Spatial.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\de\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\es\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\fr\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\it\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\ja\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\ko\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\ru\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\zh-Hans\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Release\netcoreapp2.1\zh-Hant\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Release\netcoreapp2.1\DAL.pdb

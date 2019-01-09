@@ -1,0 +1,90 @@
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\NetCoreWebApi\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.xml
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.dll
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+F:\VS\GitRepository\NetCoreWebApi\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.xml
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.dll
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.xml
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\VS\GitRepository\Wasalee\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.xml
+F:\VS\GitRepository\Wasalee\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\Wasalee\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+F:\VS\GitRepository\Wasalee\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+F:\VS\GitRepository\Wasalee\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\Wasalee\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.dev.json
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\System.Spatial.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\System.Spatial.xml
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\de\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\es\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\fr\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\it\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ja\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ko\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ru\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\zh-Hans\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\zh-Hant\System.Spatial.resources.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.json
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.dev.json
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\System.Spatial.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\System.Spatial.xml
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\de\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\es\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\fr\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\it\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ja\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ko\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\ru\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\zh-Hans\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\bin\Debug\netcoreapp2.0\zh-Hant\System.Spatial.resources.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\DAL\obj\Debug\netcoreapp2.0\DAL.pdb

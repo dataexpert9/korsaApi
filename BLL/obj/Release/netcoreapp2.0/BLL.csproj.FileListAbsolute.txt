@@ -1,0 +1,59 @@
+F:\VS\GitRepository\Wasalee\BLL\bin\Release\netcoreapp2.0\BLL.deps.json
+F:\VS\GitRepository\Wasalee\BLL\bin\Release\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\Wasalee\BLL\bin\Release\netcoreapp2.0\BLL.pdb
+F:\VS\GitRepository\Wasalee\BLL\bin\Release\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\Wasalee\BLL\bin\Release\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.csprojResolveAssemblyReference.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfo.cs
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\Wasalee\BLL\obj\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\bin\Release\netcoreapp2.0\BLL.deps.json
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\bin\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\bin\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\bin\Release\netcoreapp2.0\DAL.dll
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\bin\Release\netcoreapp2.0\DAL.pdb
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfo.cs
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CopyComplete
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\LIMO App\WasalLeeAPI\BLL\obj\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\BLL.deps.json
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\AppModel.dll
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\Component.dll
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\DAL.dll
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\Component.pdb
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\DAL.pdb
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfo.cs
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CopyComplete
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\LIMO App\BLL\obj\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\Services.dll
+H:\Git Repo\LIMO App\BLL\bin\Release\netcoreapp2.0\Services.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\BLL.deps.json
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\BLL.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\Services.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Release\netcoreapp2.0\Services.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Release\netcoreapp2.0\BLL.pdb

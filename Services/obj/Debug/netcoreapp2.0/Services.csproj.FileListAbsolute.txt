@@ -1,0 +1,32 @@
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.dll
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.pdb
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.dll
+H:\Git Repo\Korsa\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Services.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\DAL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Services\obj\Debug\netcoreapp2.0\Services.pdb

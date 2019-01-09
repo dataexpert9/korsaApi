@@ -1,0 +1,24 @@
+H:\Git Repo\Korsa\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.deps.json
+H:\Git Repo\Korsa\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.csproj.CopyComplete
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\AppModel\obj\Debug\netcoreapp2.0\AppModel.pdb

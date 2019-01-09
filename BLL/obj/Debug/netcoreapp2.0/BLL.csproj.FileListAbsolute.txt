@@ -1,0 +1,56 @@
+F:\VS\GitRepository\NetCoreWebApi\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+F:\VS\GitRepository\NetCoreWebApi\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\NetCoreWebApi\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.csprojResolveAssemblyReference.cache
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\NetCoreWebApi\BLL\obj\Debug\netcoreapp2.0\BLL.pdb
+F:\VS\GitRepository\Wasalee\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+F:\VS\GitRepository\Wasalee\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\Wasalee\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+F:\VS\GitRepository\Wasalee\BLL\bin\Debug\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\Wasalee\BLL\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.csprojResolveAssemblyReference.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\Wasalee\BLL\obj\Debug\netcoreapp2.0\BLL.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\AppModel.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\DAL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Services.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\AppModel.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\DAL.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Services.pdb
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CopyComplete
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+H:\Git Repo\Korsa\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\AppModel.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\DAL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Services.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\AppModel.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\bin\Debug\netcoreapp2.0\Services.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CopyComplete
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\BLL\obj\Debug\netcoreapp2.0\BLL.pdb

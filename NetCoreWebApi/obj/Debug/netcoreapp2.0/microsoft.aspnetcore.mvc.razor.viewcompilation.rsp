@@ -1,0 +1,6 @@
+F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Korsa
+--content-root=F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi
+--file=F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\Views\Shared\Error.cshtml
+--file=F:\Projects\KorsaAndLimo\Korsa-Application\NetCoreWebApi\Views\_ViewStart.cshtml

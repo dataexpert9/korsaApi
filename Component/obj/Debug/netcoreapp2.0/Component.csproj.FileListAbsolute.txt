@@ -1,0 +1,18 @@
+H:\Git Repo\Korsa\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.deps.json
+H:\Git Repo\Korsa\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.pdb
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.csprojAssemblyReference.cache
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.csproj.CoreCompileInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.AssemblyInfoInputs.cache
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.AssemblyInfo.cs
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.dll
+H:\Git Repo\Korsa\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.deps.json
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\bin\Debug\netcoreapp2.0\Component.pdb
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.csprojAssemblyReference.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.csproj.CoreCompileInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.AssemblyInfoInputs.cache
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.AssemblyInfo.cs
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.dll
+F:\Projects\KorsaAndLimo\Korsa-Application\Component\obj\Debug\netcoreapp2.0\Component.pdb
